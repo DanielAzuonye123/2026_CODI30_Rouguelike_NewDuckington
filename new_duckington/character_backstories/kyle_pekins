@@ -15,7 +15,7 @@ BEFORE POWERS:
 - Natural leader.
 - Strong sense of justice.
 
-BASE STATS:                     STATS WITH Stormblade:               STATS WITH Targaid: 
+BASE STATS:                     STATS WITH Stormblade⚡:            STATS WITH Targaid🛡️: 
 PLAYER_HP=100                   PLAYER_HP=120                        PLAYER_HP=120  
 PLAYER_HP_MAX=150               PLAYER_HP_MAX=150                    PLAYER_HP_MAX=150
 PLAYER_ATK=15                   PLAYER_ATK=70                        PLAYER_ATK=40
@@ -27,8 +27,8 @@ PLAYER_LCK=2                    PLAYER_LCK=2                         PLAYER_LCK=
 
 WEAPONS:
 Given to him from the Asteroid:
-Stormblade – A sword capable of summoning and controlling lightning.
-Targaid - A shield capable of making a large shield barrier.
+Stormblade⚡ – A sword capable of summoning and controlling lightning.
+Targaid🛡️ - A shield capable of making a large shield barrier.
 
 Stormblade: BASE POWER: 70%      Targaid: BASE POWER: 50%
             MAX POWER: 100%               MAX POWER: 100%

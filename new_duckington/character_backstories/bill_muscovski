@@ -15,7 +15,7 @@ BEFORE POWERS:
 - Excellent strategist.
 - Able to create tools from limited resources.
 
-BASE STATS:                       STATS WITH Cryo Stun Gun: 
+BASE STATS:                       STATS WITH Cryo Stun Gun❄️: 
 PLAYER_HP=100                     PLAYER_HP=120 
 PLAYER_HP_MAX=150                 PLAYER_HP_MAX=150
 PLAYER_ATK=5                      PLAYER_ATK=40
@@ -27,7 +27,7 @@ PLAYER_LCK=2                      PLAYER_LCK=2
 
 WEAPON:
 Given to him from the Asteroid:
-Cryo Stun Gun – Freezes targets instantly. When thawed, targets lose 40 HP.
+Cryo Stun Gun❄️ – Freezes targets instantly. When thawed, targets lose 40 HP.
 
 Cryo Stun Gun BASE POWER: 50%
               MAX POWER: 100%
